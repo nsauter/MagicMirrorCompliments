@@ -1,0 +1,34 @@
+{
+        "anytime" : [
+                "Du siehst heute großartig aus!",
+                "Heute ist ein großartiger Tag!",
+                "Du machst den Unterschied!",
+                "Ein wunderschönes Lächeln, für einen wunderschönen Tag",
+                "Schaust du noch immer in den Spiegel?",
+                "Hallo!",
+		"Du siehst gut aus!",
+		"Schönes Lächeln :)",
+		"Wer ist denn das im Spiegel?",
+		"Nicht mehr lange bis zur Freizeit!",
+		"Na, Müde?"
+        ],
+        "morning" : [
+                "Du siehst etwas zerzaust aus",
+                "Lächeln nicht vergessen!",
+                "Das wird ein schöner Tag!",
+                "Ist der Tag nicht großartig?",
+                "Mach dich bereit für einen großartigen Tag!"
+        ],
+        "afternoon" : [
+                "Mache noch schnell deine Arbeit fertig ...",
+                "Nachmittag, nicht Morgen, nicht Mittag",
+                "Dieser Tag ist großartig",
+                "Beinahe Abendessenszeit!"
+        ],
+        "evening" : [
+                "Nur ein paar Anrufe zu erledigen ...",
+                "Guten Appetit",
+                "Yeah, Freizeit",
+                "War das Essen gut?"
+        ]
+}
